@@ -28,7 +28,7 @@ Labirent Kaçışı, klasik top yemece türü oyunlardan ilham alan ama tamamen 
 
 ## Canlı Demo
 
-[Buraya canlı demo linki gelecek!](#)
+[Buraya canlı demo linki gelecek!](https://geoarda.github.io/labirent-kacisi/)
 
 ---
 
