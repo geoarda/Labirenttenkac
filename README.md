@@ -1,6 +1,6 @@
 # Labirent Kaçışı 🌀🎮
 
-**Coded By:** Arda / TECHGeoofy1
+**Coded By:** Arda / TECHGeoofy11
 
 ---
 
